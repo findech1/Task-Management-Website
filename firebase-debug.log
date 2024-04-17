@@ -1,0 +1,28 @@
+[debug] [2024-04-15T19:54:37.907Z] ----------------------------------------------------------------------
+[debug] [2024-04-15T19:54:37.908Z] Command:       /home/findech/.nvm/versions/node/v21.3.0/bin/node /home/findech/.nvm/versions/node/v21.3.0/bin/firebase init
+[debug] [2024-04-15T19:54:37.909Z] CLI Version:   13.7.2
+[debug] [2024-04-15T19:54:37.909Z] Platform:      linux
+[debug] [2024-04-15T19:54:37.909Z] Node Version:  v21.3.0
+[debug] [2024-04-15T19:54:37.909Z] Time:          Mon Apr 15 2024 22:54:37 GMT+0300 (East Africa Time)
+[debug] [2024-04-15T19:54:37.910Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-15T19:54:37.916Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-15T19:54:37.916Z] > authorizing via signed-in user (findech8@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/findech/Task-Management-Website
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 

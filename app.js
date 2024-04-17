@@ -1,8 +1,13 @@
 // Initialize Firebase with your config
 firebase.initializeApp({
-    apiKey: "AIzaSyA5rOEITB2SnSlyyu1jOKOMSGJipEqVD_w",
-    authDomain: "task-management-website-fa8b6.firebaseapp.com",
-    projectId: "task-management-website-fa8b6",
+  apiKey: "AIzaSyA5rOEITB2SnSlyyu1jOKOMSGJipEqVD_w",
+  authDomain: "task-management-website-fa8b6.firebaseapp.com",
+  databaseURL: "https://task-management-website-fa8b6-default-rtdb.firebaseio.com",
+  projectId: "task-management-website-fa8b6",
+  storageBucket: "task-management-website-fa8b6.appspot.com",
+  messagingSenderId: "853724467149",
+  appId: "1:853724467149:web:e660bdb83cad43a2183e84",
+  measurementId: "G-RH5DMBBXC4"
   });
   
   const db = firebase.firestore();
